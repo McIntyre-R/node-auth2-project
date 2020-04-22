@@ -1,0 +1,20 @@
+.active{
+    background-color: #470B97;
+    color: #C0C0C0;
+    border-left:2px #C0C0C0 solid;
+    border-right:2px #C0C0C0 solid;
+    border-top:2px #C0C0C0 solid;
+}
+.active:hover{
+    background-color: #470B97;
+    color: #C0C0C0;
+    /* border-left:2px #C0C0C0 solid;
+    border-right:2px #C0C0C0 solid; */
+}
+.tabContent{
+    display: none;
+}
+
+.activeTab{
+    display: block;
+}
